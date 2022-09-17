@@ -1,6 +1,6 @@
 # cupertino_app
 
-A new Flutter project.
+A simple example of cupertino Tab Scacffold.
 
 ## Getting Started
 
