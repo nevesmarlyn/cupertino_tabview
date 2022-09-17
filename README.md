@@ -1,6 +1,6 @@
 # cupertino_app
 
-A simple example of cupertino Tab Scacffold.
+A simple example of cupertino Tab Scaffold.
 
 ## Getting Started
 
